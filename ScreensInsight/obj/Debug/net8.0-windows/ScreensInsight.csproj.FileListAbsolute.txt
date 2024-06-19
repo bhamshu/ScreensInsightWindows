@@ -1,0 +1,16 @@
+C:\Users\4dman\source\repos\ScreensInsight\ScreensInsight\obj\Debug\net8.0-windows\ScreenSight.Form1.resources
+C:\Users\4dman\source\repos\ScreensInsight\ScreensInsight\obj\Debug\net8.0-windows\ScreensInsight.csproj.GenerateResource.cache
+C:\Users\4dman\source\repos\ScreensInsight\ScreensInsight\obj\Debug\net8.0-windows\ScreensInsight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4dman\source\repos\ScreensInsight\ScreensInsight\obj\Debug\net8.0-windows\ScreensInsight.AssemblyInfoInputs.cache
+C:\Users\4dman\source\repos\ScreensInsight\ScreensInsight\obj\Debug\net8.0-windows\ScreensInsight.AssemblyInfo.cs
+C:\Users\4dman\source\repos\ScreensInsight\ScreensInsight\obj\Debug\net8.0-windows\ScreensInsight.csproj.CoreCompileInputs.cache
+C:\Users\4dman\source\repos\ScreensInsight\ScreensInsight\bin\Debug\net8.0-windows\ScreensInsight.exe
+C:\Users\4dman\source\repos\ScreensInsight\ScreensInsight\bin\Debug\net8.0-windows\ScreensInsight.deps.json
+C:\Users\4dman\source\repos\ScreensInsight\ScreensInsight\bin\Debug\net8.0-windows\ScreensInsight.runtimeconfig.json
+C:\Users\4dman\source\repos\ScreensInsight\ScreensInsight\bin\Debug\net8.0-windows\ScreensInsight.dll
+C:\Users\4dman\source\repos\ScreensInsight\ScreensInsight\bin\Debug\net8.0-windows\ScreensInsight.pdb
+C:\Users\4dman\source\repos\ScreensInsight\ScreensInsight\obj\Debug\net8.0-windows\ScreensInsight.dll
+C:\Users\4dman\source\repos\ScreensInsight\ScreensInsight\obj\Debug\net8.0-windows\refint\ScreensInsight.dll
+C:\Users\4dman\source\repos\ScreensInsight\ScreensInsight\obj\Debug\net8.0-windows\ScreensInsight.pdb
+C:\Users\4dman\source\repos\ScreensInsight\ScreensInsight\obj\Debug\net8.0-windows\ScreensInsight.genruntimeconfig.cache
+C:\Users\4dman\source\repos\ScreensInsight\ScreensInsight\obj\Debug\net8.0-windows\ref\ScreensInsight.dll
